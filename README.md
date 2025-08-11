@@ -42,7 +42,7 @@ Ce dépôt contient le **code source brut** d’un exécuteur Lua conçu pour in
 ## 🚀 Installation
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/666teamm/Roblox-executor.git
 
 
 Visual Studio 2022 ou plus récent
