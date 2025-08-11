@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Status](https://img.shields.io/badge/status-Unmaintained-red.svg)]()  
-[![Language](https://img.shields.io/badge/language-C#-blue.svg)]()  
+[![Language](https://img.shields.io/badge/language-C%23-blue.svg)]()  
 [![Lua](https://img.shields.io/badge/lua-support-brightgreen.svg)]()  
 
 ---
